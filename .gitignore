@@ -1,1 +1,2 @@
 terraform/.terraform
+terraform/kubeconfig_test-eks-cluster
